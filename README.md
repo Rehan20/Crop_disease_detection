@@ -1,5 +1,5 @@
 # Paddy Crop disease detection
-Detection of disease of paddy crop...
+Detection of disease of paddy crop 
 Our system architecture of the project will be simple , flexible and more efficient
 than others.
 The model is made which can easily be implemented with less time and less space
